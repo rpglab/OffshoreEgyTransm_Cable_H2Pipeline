@@ -81,7 +81,7 @@ If you use any of the codes/data published here in your work, please cite the fo
 
 * Jesus Silva-Rodriguez, Jin Lu and Xingpeng Li, “Cost-Benefit Analysis and Comparisons for Different Offshore Wind Energy Transmission Systems”, *Offshore Technology Conference*, Houston, TX, USA, May 2023.
 
-Paper website: <a class="off" href="/papers/Jesus-JinLu-OWP-Transm/"  target="_blank">https://rpglab.github.io/papers/JJesus-JinLu-OWP-Transm/</a>
+Paper website: https://rpglab.github.io/papers/JJesus-JinLu-OWP-Transm/
 
 
 ## Contributions:
