@@ -35,7 +35,7 @@ The three types of offshore wind transmission systems are summarized as follows:
 * 'results_HVDC' folder: The simulation results for HVDC case are saved in this folder.
 * 'results_Hybrid' folder: The simulation results for Hybrid case are saved in this folder.
 * 'results_HP' folder: The simulation results for HP case are saved in this folder.
-* 'Offshore Hydrogen Supergrid Paprameters.docx': Parameters used in the simulation for the three cases.
+* 'Offshore Hydrogen Supergrid Parameters_Jesus_Silva_2022.pdf': list of parameter values used in the simulations.
 
 
 ## Simulation Results:
